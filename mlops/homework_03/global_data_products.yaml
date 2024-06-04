@@ -1,0 +1,5 @@
+yellow_mar23_taxi:
+  object_type: pipeline
+  object_uuid: data_prep
+  project: homework_03
+  repo_path: /home/src/mlops/homework_03
